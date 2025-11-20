@@ -1,0 +1,50 @@
+======================================================================
+ENGINE ANOMALY DETECTION REPORT
+======================================================================
+
+Report Generated: 2025-11-20 23:33:25
+Data Source: /content/normal_engine_data.csv
+
+----------------------------------------------------------------------
+OVERALL STATISTICS
+----------------------------------------------------------------------
+Total Sequences Analyzed: 1,791
+Average Confidence: 96.87%
+Anomalies Detected: 31
+Anomaly Rate: 1.73%
+
+----------------------------------------------------------------------
+DETAILED BREAKDOWN
+----------------------------------------------------------------------
+
+Normal:
+  Count: 1,760
+  Percentage: 98.27%
+  Avg Confidence: 97.35%
+
+Weak Injectors:
+  Count: 1
+  Percentage: 0.06%
+  Avg Confidence: 71.58%
+
+Fuel Leak:
+  Count: 0
+  Percentage: 0.00%
+  Avg Confidence: 0.00%
+
+Oil Leak:
+  Count: 30
+  Percentage: 1.68%
+  Avg Confidence: 69.53%
+
+Vacuum Leak:
+  Count: 0
+  Percentage: 0.00%
+  Avg Confidence: 0.00%
+
+----------------------------------------------------------------------
+RECOMMENDATIONS
+----------------------------------------------------------------------
+✓ Engine operating normally. No action required.
+
+======================================================================
